@@ -16,7 +16,7 @@ new App({
 		tools: 'not sure',
 		// What do you want to learn in this workshop? 
 		expectations: [
-			'let's see'
+			'lets see'
 		],
 		// What do you like to do when you're not coding?
 		hobbies: [
